@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>141511126270-t4g36bah1pvstgao4qk37r7ef4ajfhg1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.141511126270-t4g36bah1pvstgao4qk37r7ef4ajfhg1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAICJKDUthBEFFCS_4zETss3L0ugy_bh4E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>141511126270</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.petr.quiz</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-db19e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-db19e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:141511126270:ios:b241576f2c807819f889af</string>
+</dict>
+</plist>
